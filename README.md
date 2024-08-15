@@ -76,7 +76,7 @@ npm run build
 
 
 
-## Follow me 
+## Follow me
 [fertorresmx.dev](https://fertorresmx.dev/)
 
 #### :globe_with_meridians: [Twitter](https://twitter.com/FerTorresMx), [Instagram](https://www.instagram.com/fertorresmx/): @fertorresmx
